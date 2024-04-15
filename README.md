@@ -3,7 +3,7 @@
 ## Sobre mí
 
 - 🔭 Actualmente estoy trabajando en mejorar la integración tecnológica y procesos sistematizados en el área de logística.
-- 🌱 Actualmente estoy aprendiendo diseño y programación web con un enfoque en front-end y análisis de datos.
+- 🌱 Actualmente estoy aprendiendo diseño y programación web con un enfoque en backend y análisis de datos.
 - 👯 Estoy buscando colaborar en proyectos de código abierto relacionados con Python y análisis de datos.
 - 🤔 Estoy buscando ayuda con técnicas avanzadas de visualización de datos.
 - 💬 Pregúntame sobre gestión y mantenimiento de sistemas y redes, así como sobre análisis de datos.
