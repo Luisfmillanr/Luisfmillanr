@@ -1,9 +1,17 @@
 # Hola, soy Luis Fernando Millán Rivera 👋
 
 ## Visitor's count / Contador de visitas 👀
-![Contador de Visitas](https://visitor-count-lfmr.glitch.me/counter-image)
 
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+<p align="center">
+  <img src="https://visitor-count-lfmr.glitch.me/counter-image?nocache=1" alt="Contador de Visitas">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luisfmillanr&theme=onedark&no-frame=true" alt="luisfmillanr's github trophies" />
+  </a>
+</p>
 
 ## About Me / Sobre mí
 
@@ -42,8 +50,29 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ## Support me / Apóyame
-- **Invite me a coffee / Invítame un café**: [¡Apóyame aquí!](https://www.buymeacoffee.com/luisfmillanr)
-- **Donate with crypto / Dona con criptomonedas**: `1ABcXz24umRXJEoCN1NxFp2xo2x8Y2KxvE` (Bitcoin).
+
+- **Buy me a coffee / Invítame un café**: Si te gusta mi trabajo y quieres apoyarme, considera [comprarme un café](https://buymeacoffee.com/luisfmillay
+).
+
+- **Support on Ko-fi / Apoyo en Ko-fi**: También puedes apoyarme a través de [Ko-fi](https://ko-fi.com/luisfernandomillanrivera).
+
+**Donate with crypto / Dona con criptomonedas**:
+  - Para donaciones en criptomonedas a través de la red BEP20 (Binance Smart Chain), puedes usar la siguiente dirección para USDT, ADA y ATOM:
+    - `0xc52523af42e2bf018cee5d31cd4d7bbb9d398fea`
+    
+Por favor, asegúrate de enviar las donaciones solo por la red BEP20 para evitar cualquier problema. Tu apoyo es enormemente apreciado y ayuda a continuar con el desarrollo de proyectos y contribuciones a la comunidad. ¡Gracias por contribuir!
 
 ## GitHub Stats / Estadísticas de GitHub
-![GitHub Stats of Luisfmillanr](https://github-readme-stats.vercel.app/api?username=Luisfmillanr&show_icons=true)
+
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luisfmillanr&show_icons=true&theme=radical" alt="Luisfmillanr's GitHub Stats" />
+</p>
+
+<!-- GitHub Readme Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisfmillanr&show_icons=true&layout=compact&theme=radical" alt="Luisfmillanr's Top Languages" />
+</p>
+
+
+
