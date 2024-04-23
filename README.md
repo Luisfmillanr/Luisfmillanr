@@ -2,9 +2,9 @@
 
 ## Visitor's count / Contador de visitas 👀
 
-<p align="center">
-  <img src="https://visitor-count-lfmr.glitch.me/counter-image?nocache=1" alt="Contador de Visitas">
-</p>
+![Contador de Visitas](https://visitor-count-lfmr.glitch.me/counter-image)
+
+
 
 
 <p align="center">
