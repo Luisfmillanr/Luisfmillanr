@@ -2,8 +2,7 @@
 
 ## Visitor's count / Contador de visitas 👀
 
-![Contador de Visitas](https://visitor-count-lfmr.glitch.me/counter-image)
-
+![Contador de Visitas](https://visitor-count-lfmr.glitch.me/counter-image?nocache=${Date.now()})
 
 
 
