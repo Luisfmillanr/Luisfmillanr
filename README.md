@@ -1,12 +1,5 @@
 # Hola, soy Luis Fernando Millán Rivera 👋
 
-## Visitor's count / Contador de visitas 👀
-
-<p align="center">
-  <img src="https://visitor-count-lfmr.glitch.me/counter-image?nocache=${Date.now()}" alt="Contador de Visitas">
-</p>
-
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
